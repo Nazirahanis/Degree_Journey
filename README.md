@@ -1,7 +1,5 @@
 # 8 Nov 2025 - Program Pembangunan Pelajar SECP 2025
 
-![Program Pembangunan Pelajar](program2025.jpg)
-
 Today I attended a faculty programme for Data Engineering students. 
  
 I learned the importance of developing skills beyond class, such as communication and leadership
