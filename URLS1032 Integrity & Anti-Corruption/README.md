@@ -1,4 +1,4 @@
-# SECR1013 Digital Logic
+# URLS1032 Integrity and Anti-Corruption
 <br>
 
 **📚 Lecturer:** Dr. Fahrul Irfan bin Ishak <br>
