@@ -6,14 +6,14 @@
 **🕐 Credit Hours:** 3 hours
 
 ## Topic
-Topic 01: Programming Problem - Solving
-Topic 02: Elementary Programming
-Topic 03: Control Structures
-Topic 04: Function
-Topic 05: Array
-Topic 06: Input and Output
-Topic 07: Pointers
-Topic 08: Structured Data
+Chapter 1: Programming Problem - Solving <br>
+Chapter 2: Elementary Programming <br>
+Chapter 3: Control Structures <br>
+Chapter 4: Function <br>
+Chapter 5: Array <br>
+Chapter 6: Input and Output <br>
+Chapter 7: Pointers <br>
+Chapter 8: Structured Data 
 
 ## Course Reflection
 This course taught me about fundamental theory and practice on problem solving techniques by using coding and programming, C++.
