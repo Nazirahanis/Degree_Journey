@@ -1,8 +1,9 @@
 # SECI1013 Discrete Structure
 <br>
-📚 **Lecturer:** Dr. Noorfa Haszlinna binti Mustaffa  <br>
-🏫 **Section:** 02  <br>
-🕐 **Credit Hours:** 3 hours
+
+**📚 Lecturer:** Dr. Noorfa Haszlinna binti Mustaffa  <br>
+**🏫 Section:** 02  <br>
+**🕐 Credit Hours:** 3 hours
 
 ## Topic
 Chapter 1: Set Theory & Logic <br>
