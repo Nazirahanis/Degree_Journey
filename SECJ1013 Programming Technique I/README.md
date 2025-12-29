@@ -1,12 +1,21 @@
-As a fundamental subject, this course equips the students with theory and practice on
-problem solving techniques by using the structured approach. The course covers the
-following: preprocessor directives, constants and variables, data types, input and output
-statements, control structures: sequential, selection and loop, built-in and user-defined
-functions, single and two dimensional arrays, file operations, pointers, and structured data
-types. Students are required to develop programs using C++ programming language, in
-order to solve simple to moderate problems. A learning approach that combines lectures,
-lab exercises, and assignments strengthens both conceptual understanding and practical
-programming skills. Students will be able to apply systematic problem-solving methods to
-analyze and address programming challenges. Develop structured approach C++ programs
-to solve problems of varying complexity within a specified time frame
+# SECR1013 Programming Technique I
+<br>
+
+**📚 Lecturer:** Dr. Muhammad Luqman bin Mohd Shafie <br>
+**🏫 Section:** 02  <br>
+**🕐 Credit Hours:** 3 hours
+
+## Topic
+Topic 01: Programming Problem - Solving
+Topic 02: Elementary Programming
+Topic 03: Control Structures
+Topic 04: Function
+Topic 05: Array
+Topic 06: Input and Output
+Topic 07: Pointers
+Topic 08: Structured Data
+
+## Course Reflection
+This course taught me about fundamental theory and practice on problem solving techniques by using coding and programming, C++.
+From this course, I learned to solve a problem using programming approach by developing structured C++ programs. I need to know the problem and plan the solution. With this, i could apply systematic problem-solving methods to analyze and address programming challenges.
 
