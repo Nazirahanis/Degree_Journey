@@ -1,4 +1,4 @@
-# URLS1032 Integrity and Anti-Corruption
+# Techonology & Information System
 <br>
 
 **📚 Lecturer:** Dr. Aryati binti Bakri <br>
