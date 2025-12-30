@@ -8,4 +8,4 @@ This task was assigned pairing.
 [Solution](https://acrobat.adobe.com/id/urn:aaid:sc:AP:148669e4-21fc-4808-9af3-41009776c799)
 
 ## Reflection
-In this task, I got 
+This task gave me a practice to apply the theories I learned in the class such as Pre-test and Post-test. Contructing a flowchart before the actually coding helped me to plan and understand my coding better. Moreover, working in a pair could enhance my team-working skills and my communication.
