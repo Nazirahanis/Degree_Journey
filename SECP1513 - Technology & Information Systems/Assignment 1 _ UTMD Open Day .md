@@ -1,8 +1,8 @@
 # Assignment 1 : UTM Digital Open Day
 
-**🗓️ Date:** 28 & 29 October 2025
-**🕐 Time** : 2.15 pm - 4.30 pm
-**📍 Venue:** UTM Digital
+**🗓️ Date:** 28 & 29 October 2025 <br>
+**🕐 Time** : 2.15 pm - 4.30 pm <br>
+**📍 Venue:** UTM Digital <br>
 
 |Members|Task|
 |------|--------|
@@ -31,6 +31,9 @@ UTMDigital Open Day 2025 is yearly event, attended by students who were interest
 
 - System Development <br>
 🎤 Speaker : Helmee Bin Yaacob
+
+## 🛠️ Suggestion of Improvement
+- Provide digital map of the booths location so students can plan their visit.
 
 ## 🖼️ Photo
 
