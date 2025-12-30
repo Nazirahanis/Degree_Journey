@@ -7,7 +7,7 @@
 ## ❓ Objective
 - To give exposure about Project Management and System Development.
 - To highlight the importance of project management and system development
-- To create a group report based on the talk.
+- To create an academic writing report based on the talk.
 
 ## 🔭 Overview of The Talk
 🎤 **Speaker** : Ts. Hj. Abdul Alim bin Abdul Muttalib, the Head of Technology and Innovation at Serunai Commerce Sdn. Bhd.
@@ -22,9 +22,19 @@
 ## 📖 Reflection
 To succeed in computer science, strong fundamentals, experience and skills are crucial. Classroom learning and group projects help to develop technical skills. In addition, participating in extracurricular activities enhances soft skills such as communication. Lastly, I should improve knowledge by exploring new tools such as using AI to complete tasks more efficiently.
 
+## 🛠️ Suggestion of Improvements
+-
+-
+
+## 📝 Task
+- To create an academic writing based on the talk that not exceed 3 pages.
+[Assignment.3.Report.System.Development.docx](https://github.com/user-attachments/files/24376669/Assignment.3.Report.System.Development.docx)
+
+  ### Report
+  [Click here](https://acrobat.adobe.com/id/urn:aaid:sc:AP:93fc2eb7-4dfc-4e4c-9bdc-07ab203914cb)
+
 ## 🖼️ Photos
-<img width="764" height="1080" alt="image" src="https://github.com/user-attachments/assets/9129842e-e52e-4025-b738-a15b44554c2b" />
-
-
-## Report
-[Click here](https://acrobat.adobe.com/id/urn:aaid:sc:AP:93fc2eb7-4dfc-4e4c-9bdc-07ab203914cb)
+![WhatsApp Image 2025-12-11 at 08 52 58](https://github.com/user-attachments/assets/60d1f737-c6ca-4670-8eaa-c4e5a6a026d2)
+![photo_2025-12-30_11-27-18](https://github.com/user-attachments/assets/64d6f140-a681-47bc-b14b-2bd786aaea5c)
+![photo_2025-12-30_11-27-21](https://github.com/user-attachments/assets/4b8d998b-bdf6-4e07-855a-cc3e0d87f87e)
+![photo_2025-12-30_11-27-27](https://github.com/user-attachments/assets/cb9de13f-5a88-4b3b-bc4b-88ae1f73e7fd)
