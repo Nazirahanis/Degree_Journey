@@ -1,6 +1,7 @@
 # Assignment 2
 
 **Chapter:** 04 Function <br>
+**Due Date:** 29 December 2025
 **Task:** Develop a Basal Metabolic Rate (BMR) Calculator to estimate a basal metabolic rate: 
 the amount of energy expended while at rest in a neutrally temperate environment, and in a post-absorptive state 
 (meaning that the digestive system is inactive, which requires about 12 hours of fasting).
