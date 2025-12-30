@@ -18,4 +18,10 @@ The session was conducted by a few staffs. After the session, we also had a quiz
 For me, it was a valuable hands-on experience and opportunity to see and handle the components physically, not just theoretically. 
 It enhanced my understandings and gave me a clear version of what we usually learn in lectures. 
 
+## Suggestion of Improvement
+- Add a troubleshooting segment to give more real-world experience and strengthen the problem-solving skills.
+
 ## 🖼️ Photos
+![photo_2025-12-30_11-39-46](https://github.com/user-attachments/assets/b8207a0b-340d-4982-9403-ffd7c259ff1b)
+![photo_2025-12-30_11-39-45](https://github.com/user-attachments/assets/92b95dcb-a39b-445d-b10c-b1075545044b)
+
