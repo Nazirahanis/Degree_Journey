@@ -23,14 +23,14 @@
 To succeed in computer science, strong fundamentals, experience and skills are crucial. Classroom learning and group projects help to develop technical skills. In addition, participating in extracurricular activities enhances soft skills such as communication. Lastly, I should improve knowledge by exploring new tools such as using AI to complete tasks more efficiently.
 
 ## 🛠️ Suggestion of Improvements
--
--
+- Provide follow-up material such as slide after the session.
+- More time for Q&A session to allow students ask and learn directly about the industry.
 
 ## 📝 Task
-- To create an academic writing based on the talk that not exceed 3 pages.
+To create an academic writing based on the talk that not exceed 3 pages.
 [Assignment.3.Report.System.Development.docx](https://github.com/user-attachments/files/24376669/Assignment.3.Report.System.Development.docx)
 
-  ### Report
+  ### Report 
   [Click here](https://acrobat.adobe.com/id/urn:aaid:sc:AP:93fc2eb7-4dfc-4e4c-9bdc-07ab203914cb)
 
 ## 🖼️ Photos
