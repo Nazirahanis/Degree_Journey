@@ -40,7 +40,7 @@ From this talk, I realised that ICT is not only to have the knowledges and the s
 - More interactive session so students won't get bored and sleepy.
 
 ## ✏️ Task
-[Assignment.1.Poster.PPG.docx](https://github.com/user-attachments/files/24376625/Assignment.1.Poster.PPG.docx)
+[Assignment.2.Poster.PPG.docx](https://github.com/user-attachments/files/24376625/Assignment.1.Poster.PPG.docx)
 
 ### Poster
 <img width="1414" height="2000" alt="Group 10 Industry Talk Poster" src="https://github.com/user-attachments/assets/947daaf3-7389-4b36-97d4-386135e41229" />
