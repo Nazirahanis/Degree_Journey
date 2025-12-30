@@ -1,4 +1,4 @@
-# Assignment 1 : Set & Theory
+# Assignment 1 : Set Theory & Logic
 
 **Due Date:** 22-30 October 2025
 
