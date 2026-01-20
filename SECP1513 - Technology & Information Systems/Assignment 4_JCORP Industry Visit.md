@@ -6,7 +6,7 @@
 ## ❓ Objective
 - To give exposure to the students about real-world organisation operation.
 - To expand knowlegdes especially in IT technologies.
-- 
+
 ## 🔭 Overview of The Visit
 An industry visit to Johor Corporation (JCORP) was conducted for students from section SECP1513-02. 
 
@@ -25,7 +25,7 @@ This visit broadened my perspective on the importance of acquiring skills relate
 ![1768025069140](https://github.com/user-attachments/assets/7def5c24-92b6-4be4-9af8-18a02740207b)
 
 ## Task After
-- To create a newsletter about the visit (group assignment 4)
+- To create a newsletter about the visit (group assignment 4) <br>
   [Click Here for full view](https://acrobat.adobe.com/id/urn:aaid:sc:AP:c9e383d2-f830-46c6-963a-0f0661759618)
 
 
