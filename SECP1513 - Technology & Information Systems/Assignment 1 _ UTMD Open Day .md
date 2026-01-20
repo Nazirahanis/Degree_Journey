@@ -35,6 +35,7 @@ UTMDigital Open Day 2025 is yearly event, attended by students who were interest
 ## 🛠️ Suggestion of Improvement
 - Provide digital map of the booths location so students can plan their visit.
 
-## 🖼️ Photo
+## 🖼️ Video
+[Click Here](https://youtu.be/rvWaaMnH9rw?si=SC6bgHL7aO8Jczkq)
 
 
